@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to <a href="https://getbootstrap.com/">ThairaHub</a> community!</h1><br>
+<h1 align="center">Welcome to <a href="https://thairahub.com/">ThairaHub</a> community!</h1><br>
 
 <p align="center">
   <a href="https://getbootstrap.com/">
@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <a href="https://youtube.com" target="_blank">
+  <a href="[https://youtube.com](https://youtube.com/@thairahub?feature=shared)" target="_blank">
     <i class="bi bi-youtube"></i>
   </a>
   ·
