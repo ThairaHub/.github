@@ -7,15 +7,31 @@
 </p>
 
 <p align="center">
-  ThairaHub is the world's most powerful, extensible, and feature-packed frontend toolkit—<br>with a vast community of themes, extensions, plugins, and more.
+  ThairaHub is a SaaS Marketplace build to provide the best ready-to-market SaaS templates out there. Build and Own your Proprietary Software and use it for your services.
 </p>
 
 <p align="center">
-  <a href="https://getbootstrap.com/docs/">Bootstrap</a>
+  <a href="https://youtube.com" target="_blank">
+    <i class="bi bi-youtube"></i>
+  </a>
   ·
-  <a href="https://icons.getbootstrap.com/">Bootstrap Icons</a>
+  <a href="https://twitter.com" target="_blank">
+    <i class="bi bi-twitter"></i>
+  </a>
   ·
-  <a href="https://themes.getbootstrap.com/">Themes</a>
+  <a href="https://instagram.com" target="_blank">
+    <i class="bi bi-instagram"></i>
+  </a>
   ·
-  <a href="https://blog.getbootstrap.com/">Blog</a>
+  <a href="https://linkedin.com" target="_blank">
+    <i class="bi bi-linkedin"></i>
+  </a>
+  ·
+  <a href="https://github.com" target="_blank">
+    <i class="bi bi-github"></i>
+  </a>
 </p>
+
+<!-- Bootstrap Icons CDN -->
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.css">
+
