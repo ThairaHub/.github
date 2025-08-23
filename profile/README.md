@@ -1,7 +1,7 @@
 <h1 align="center">Welcome to <a href="https://thairahub.com/">ThairaHub</a> community!</h1><br>
 
 <p align="center">
-  <a href="https://getbootstrap.com/">
+  <a href="https://https://thairahub.com/">
     <img src="https://avatars.githubusercontent.com/u/207939917?v=4" alt="ThairaHub logo" width="200" height="165">
   </a>
 </p>
