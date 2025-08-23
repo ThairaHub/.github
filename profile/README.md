@@ -10,28 +10,13 @@
   ThairaHub is a SaaS Marketplace build to provide the best ready-to-market SaaS templates out there. Build and Own your Proprietary Software and use it for your services.
 </p>
 
+
 <p align="center">
-  <a href="[https://youtube.com](https://youtube.com/@thairahub?feature=shared)" target="_blank">
-    <i class="bi bi-youtube"></i>
-  </a>
-  ·
-  <a href="https://twitter.com" target="_blank">
-    <i class="bi bi-twitter"></i>
-  </a>
-  ·
-  <a href="https://instagram.com" target="_blank">
-    <i class="bi bi-instagram"></i>
-  </a>
-  ·
-  <a href="https://linkedin.com" target="_blank">
-    <i class="bi bi-linkedin"></i>
-  </a>
-  ·
-  <a href="https://github.com" target="_blank">
-    <i class="bi bi-github"></i>
-  </a>
+  <a href="https://facebook.com/"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" /></a>
+  <a href="https://twitter.com/"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  <a href="https://instagram.com/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://linkedin.com/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/"><img src="https://img.shields.io/badge/GitHub-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
-<!-- Bootstrap Icons CDN -->
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.css">
 
