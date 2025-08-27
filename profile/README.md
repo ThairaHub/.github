@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  ThairaHub is a SaaS Marketplace build to provide the best ready-to-market SaaS templates out there. Build and Own your Proprietary Software and use it for your services.
+  ThairaHub is a SaaS Marketplace built to provide the best ready-to-market SaaS templates out there. Build and Own your Proprietary Software and use it for your services.
 </p>
 
 
